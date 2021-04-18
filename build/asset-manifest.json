@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aefde451.chunk.css",
+    "main.js": "/static/js/main.0297d5d9.chunk.js",
+    "main.js.map": "/static/js/main.0297d5d9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.ae00c589.chunk.js": "/static/js/2.ae00c589.chunk.js",
+    "static/js/2.ae00c589.chunk.js.map": "/static/js/2.ae00c589.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.92c4f0ba7f3175c36a1ffb0f21913597.js": "/precache-manifest.92c4f0ba7f3175c36a1ffb0f21913597.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.aefde451.chunk.css.map": "/static/css/main.aefde451.chunk.css.map",
+    "static/media/AnkitKumar_Resume.pdf": "/static/media/AnkitKumar_Resume.ac3f8f6c.pdf",
+    "static/media/card2.jpg": "/static/media/card2.d5ddb872.jpg",
+    "static/media/home.css": "/static/media/cover.d750073b.jpg",
+    "static/media/digital.jpg": "/static/media/digital.d1e1ca6e.jpg",
+    "static/media/foodie.jpg": "/static/media/foodie.144469bc.jpg",
+    "static/media/government.jpg": "/static/media/government.ba2a2883.jpg",
+    "static/media/happy.jpg": "/static/media/happy.4526fa2c.jpg",
+    "static/media/logomob.svg": "/static/media/logomob.c29ad990.svg",
+    "static/media/logonew.svg": "/static/media/logonew.572271b4.svg",
+    "static/media/profile.jpg": "/static/media/profile.ab59a43c.jpg",
+    "static/media/profile3.jpg": "/static/media/profile3.a9132cf1.jpg",
+    "static/media/pubg.jpg": "/static/media/pubg.a0cb4f3e.jpg",
+    "static/media/random.jpg": "/static/media/random.d1062ba1.jpg",
+    "static/media/test3.jpg": "/static/media/test3.ec263ec9.jpg",
+    "static/media/tourism.jpg": "/static/media/tourism.43a258d7.jpg",
+    "static/media/win.jpg": "/static/media/win.c0911be7.jpg"
+  }
+}
